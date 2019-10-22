@@ -1,2 +1,2 @@
 # Laba
- laba_epam
+ EPAM laboratory tasks
